@@ -1,0 +1,7 @@
+require("core.plugins_config.mason")
+require("core.plugins_config.theme")
+require("core.plugins_config.telescope")
+require("core.plugins_config.treesitter")
+require("core.plugins_config.lualine")
+require("core.plugins_config.completions")
+require("core.plugins_config.lsp_config")
